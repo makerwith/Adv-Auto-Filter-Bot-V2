@@ -12,9 +12,7 @@ You Can't Use Me.I Specially Maded For My Group.
  🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 <a href="https://t.me/Vivek_Kerala">ᴠɪᴠᴇᴋ ⚡</a></b>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
-
-Nothing Here😋
+**My Owners Can Only See This 😋**
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
