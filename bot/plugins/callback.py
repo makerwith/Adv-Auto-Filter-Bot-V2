@@ -95,7 +95,7 @@ async def cb_navg(bot, update: CallbackQuery):
 
     if not int(index_val) == 0:    
         temp_results.append([
-            InlineKeyboardButton(f"🔰 Page {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f"🔘 Nᴇxᴛ Pᴀɢᴇ {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 🔘", callback_data="ignore")
         ])
     
     if show_invite and int(index_val) !=0 :
@@ -1639,13 +1639,11 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot')
-        ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
-        ],[
-            InlineKeyboardButton('Help ⚙', callback_data="help")
-        ]]
+        InlineKeyboardButton('My Dev', url='https://t.me/Vivek_Kerala'),
+        InlineKeyboardButton('Source', url ='https://t.me/nokkiirunnoippokittum/2')
+    ],[
+        InlineKeyboardButton('Channel', url="https://t.me/joinchat/lNPUvWyEcW5jYjE9")
+    ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
         
