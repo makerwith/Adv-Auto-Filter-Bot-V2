@@ -9,7 +9,8 @@ Am Just A Advance Auto Filter Bot....😉
 
 You Can't Use Me.I Specially Maded For My Group.
 
- 🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 [ᴠɪᴠᴇᴋ ⚡](https://t.me/Vivek_KeralA)**"""    
+ 🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 [ᴠɪᴠᴇᴋ ⚡](https://t.me/Vivek_KeralA)
+**"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
