@@ -17,7 +17,7 @@ You Can't Use Me.I Specially Maded For My Group.
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> BEAST</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Makerwith">Vivek</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Makerwith">Irfan</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
