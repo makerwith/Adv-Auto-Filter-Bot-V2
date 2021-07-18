@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/Vivek_keral"
+                    "My Dev ⚡", url="https://t.me/Makerwith"
                 ),
                 
             InlineKeyboardButton
@@ -1639,7 +1639,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-        InlineKeyboardButton('👨🏻‍🎓 My Dev', url="https://t.me/VIVEK_KERALA"),
+        InlineKeyboardButton('👨🏻‍🎓 My Dev', url="https://t.me/MAKERWITH"),
         InlineKeyboardButton('🤖 About', callback_data='about')
     ],[
         InlineKeyboardButton('Close 🔐', callback_data='close')
