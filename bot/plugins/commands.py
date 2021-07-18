@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Channel 🎬', url="https://t.me/joinchat/lNPUvWyEcW5jYjE9"
+                                    'Channel 🎬', url="https://t.me/closechapter"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Channel 🎬', url="https://t.me/joinchat/lNPUvWyEcW5jYjE9"
+                                    'Channel 🎬', url="https://t.me/closechapter"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Channel 🎬', url="https://t.me/joinchat/lNPUvWyEcW5jYjE9"
+                                    'Channel 🎬', url="https://t.me/closechapter"
                                 )
                         ]
                     ]
@@ -89,7 +89,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👨🏻‍🎓 My Dev', url="https://t.me/VIVEK_KERALA"),
+        InlineKeyboardButton('👨🏻‍🎓 My Dev', url="https://t.me/MAKERWITH"),
         InlineKeyboardButton('🤖About', callback_data='about')
     ],[
         InlineKeyboardButton('Close 🔐', callback_data='close')
