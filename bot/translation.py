@@ -15,7 +15,7 @@ You Can't Use Me.I Specially Maded For My Group.
 **My Owners Can Only See This 😋**
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> BEAST</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> AUTO FILTER V3</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/Makerwith">Irfan</a></i></b>
 
